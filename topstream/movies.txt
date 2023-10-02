@@ -1,0 +1,11 @@
+A Perfect Pairing,120,2
+Dating the Enemy,180,2
+Home,135,2
+Go Karts,180,1
+Cargo,120,1
+Mao's Last Dancer,150,1
+Gurrumul,120,0
+Shine,180,0
+In Like Flynn,120,0
+Long Story Short,135,0
+
