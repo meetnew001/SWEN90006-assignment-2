@@ -29,7 +29,7 @@ TopStream simulates a movie streaming service and it includes functions for load
 1. To maintain a list of user accounts including an administrator account (username: "admin", password: "admin", MFA device id: "0123456789"). For simplicity, all passwords are not encrypted. To increase the security of the system, the admin account uses MFA.
 2. To add new free user account. Only the admin account should have the capability to add new users to the system using the REGU command, and update their account type (e.g., from a free account to a paid account) using the UPDA command.
 3. To allow users update their password and add/replace their device id (i.e. a valid 10-digit mobile phone number) to enable MFA if they wish.
-4. To load movies from files (the admin account is required) using the LOAD command. For simplicity, all movies are stored in text files and the information is not encrypted either.
+4. To load movies from files (the admin account is required) using the LOAD command. For simplicity, all movies are stored in text files and the information is not encrypted either. [This sample file](topstream/movies.txt) stores 10 movies. Each line contains the information of one movie including its name, its length in minutes, and its type (2: only VIP accounts can watch, 1: both BASIC and VIP accounts can watch, and 0: all accounts can watch).  
 5. To list all movies using the LIST command.
 6. To play movies with suitable permissions using the PLAY command.
 
