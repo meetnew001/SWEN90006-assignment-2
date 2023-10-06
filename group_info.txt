@@ -1,9 +1,9 @@
 Group Number:
 
 Member-1:
-- Name:
-- Student ID:
-- Email:
+- Name:Yuxing Huang  
+- Student ID:1368750  
+- Email:yuxinhuang1@student.unimelb.edu.au
 
 Member-2:
 - Name:
